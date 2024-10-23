@@ -16,4 +16,4 @@ with ui.layout_columns():
 
 penguins_df = palmerpenguins.load_penguins()
 
-ui.page_opts(title="Penguin Data", fillable=True)
+ui.page_opts(title="Frozen Feathered Birds", fillable=True)
